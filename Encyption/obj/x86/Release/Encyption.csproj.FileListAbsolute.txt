@@ -1,0 +1,8 @@
+D:\Encyption\Encyption\bin\Release\Encyption.exe
+D:\Encyption\Encyption\bin\Release\Encyption.pdb
+D:\Encyption\Encyption\obj\x86\Release\Encyption.Form1.resources
+D:\Encyption\Encyption\obj\x86\Release\Encyption.Properties.Resources.resources
+D:\Encyption\Encyption\obj\x86\Release\Encyption.csproj.GenerateResource.Cache
+D:\Encyption\Encyption\obj\x86\Release\Encyption.exe
+D:\Encyption\Encyption\obj\x86\Release\Encyption.pdb
+D:\Encyption\Encyption\obj\x86\Release\Encyption.csprojResolveAssemblyReference.cache
